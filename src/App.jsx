@@ -1,6 +1,6 @@
 import './App.css'
 import avatarImage from './assets/avatar zahra.png'
-import ProfilePage from '.components/ProfilePage/'
+import ProfilePage from './compomnents/ProfilePage/'
 function App() {
   const user = {
     name: "Zahra Nazari",
