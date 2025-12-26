@@ -1,5 +1,5 @@
 import './App.css'
-import avatarImage from './assets/avatar zahra.png'
+import avatarImage from './assets/zahra-avatar.jpg'
 import ProfilePage from './components/ProfilePage/'
 function App() {
   const user = {
